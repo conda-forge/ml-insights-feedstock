@@ -1,11 +1,11 @@
-About ml-insights
-=================
+About ml-insights-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ml-insights-feedstock/blob/main/LICENSE.txt)
 
 Home: http://ml-insights.readthedocs.io/en/latest/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ml-insights-feedstock/blob/main/LICENSE.txt)
 
 Summary: Package to calibrate and understand ML Models
 
