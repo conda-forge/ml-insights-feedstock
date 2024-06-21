@@ -1,5 +1,5 @@
 {% set name = "ml-insights" %}
-{% set version = "1.0.3" %}
+{% set version = "1.0.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/ml_insights-{{ version }}.tar.gz
-  sha256: 5e903a35ea121e2f1b1460b19ca93ef093508df97ceea96a5a00e624784acaad
+  sha256: 408f474af52457b53f7b8dc6080033e180da7aa1d84316f06896cae7399e2cb4
 
 build:
   number: 0
